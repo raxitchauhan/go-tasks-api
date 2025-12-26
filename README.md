@@ -17,7 +17,8 @@ make build
 ```
 make boot
 ```
-This will build the image if needed and start the API using Docker Compose.
+This will build the image if needed and start the API using Docker Compose at port `3000`.
+Postman collection: https://github.com/raxitchauhan/go-tasks-api/blob/main/postman
 
 
 #### Run database migrations
