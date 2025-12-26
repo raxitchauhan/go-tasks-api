@@ -8,7 +8,6 @@ import (
 	"github.com/rs/zerolog/log"
 )
 
-
 type (
 	ErrorResponse struct {
 		Errors []ErrorDescription `json:"errors"`

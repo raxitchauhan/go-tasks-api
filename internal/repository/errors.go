@@ -2,6 +2,4 @@ package repository
 
 import "errors"
 
-var (
-	ErrNoRows    = errors.New("no rows found")
-)
+var ErrNoRows = errors.New("no rows found")

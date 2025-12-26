@@ -1,8 +1,9 @@
 package utils_test
 
 import (
-	"go-tasks-api/internal/utils"
 	"testing"
+
+	"go-tasks-api/internal/utils"
 
 	"github.com/google/uuid"
 )
